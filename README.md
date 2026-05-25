@@ -7,6 +7,7 @@ El objetivo del curso es que cada equipo use Codex para automatizar una activida
 ## Contenido inicial
 
 - `documentos/fuentes/`: documentos originales recibidos para Showcase ExploraTec.
+- `enunciados/`: instrucciones para estudiantes sobre el examen y la definición del proyecto.
 - `notas/`: resúmenes operativos y acuerdos que salen de correos, clases y feedback docente.
 
 ## Punto de partida
